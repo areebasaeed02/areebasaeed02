@@ -19,4 +19,4 @@
 - **VR Simulator for Laparoscopic Appendectomy**
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/areebasaeed02/
+- LinkedIn: www.linkedin.com/in/areeba-saeed-42b3a33a6
