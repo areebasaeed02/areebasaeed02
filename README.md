@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Areeba Saeed
 
-<!--
-**areebasaeed02/areebasaeed02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS Student @ Institute of Space Technology (IST)  
+💻 Web & Android Developer | VR & AI Enthusiast  
+🛠️ Skills: HTML, CSS, JavaScript, PHP, MySQL, Unity, Blender
 
-Here are some ideas to get you started:
+## 📂 Projects
+### 🌐 Web
+- **Calculator App** — Simple math calculator  
+- **Hangman Game** — JavaScript word guessing game  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 AI
+- **Depression Detection System** — AI + Semantic Analysis  
+
+### 📱 Android
+- **TravelEase App** — Transport & Bus Route Application  
+
+### 🕶️ VR (FYP)
+- **VR Simulator for Laparoscopic Appendectomy**
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/areebasaeed02/
