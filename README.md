@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Areeba Saeed
+#  Hi, I'm Areeba Saeed
 
 🎓 BSCS Student @ Institute of Space Technology (IST)  
 💻 Web & Android Developer | VR & AI Enthusiast  
@@ -19,4 +19,4 @@
 - **VR Simulator for Laparoscopic Appendectomy**
 
 ## 📫 Connect
-- LinkedIn: www.linkedin.com/in/areeba-saeed-42b3a33a6
+- LinkedIn: www.linkedin.com/in/areeba-saeed-085a263a9
